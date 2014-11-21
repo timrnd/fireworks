@@ -208,6 +208,7 @@
     <None Include="Properties\PublishProfiles\fireworks - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\tim-firework.pubxml" />
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
+    <Content Include="nightcity_wildhacks.png" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
     <Content Include="Scripts\jquery.signalR-2.0.3.js" />
